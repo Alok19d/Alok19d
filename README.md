@@ -1,16 +1,59 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Alok Anand</h1>
 
-<!--
-**Alok19d/Alok19d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | Full-Stack Engineer | Problem Solver**  
 
-Here are some ideas to get you started:
+🎓 **B.Tech in Computer Science & Engineering** | **IIIT Bhagalpur (2021-2025)**  
+💡 Passionate about **Web Development, Competitive Programming, and System Design**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+
+<div align="center">  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
+</div>  
+
+---
+
+## 🛠️ Projects  
+
+- **🚖 Uber Full-Stack Clone** *(MERN, Socket.IO, Google Maps API, JWT)*  
+  - Real-time ride-sharing platform with authentication and live tracking.  
+- **📈 Zerodha Frontend Clone** *(React, CSS, JavaScript)*  
+  - Fully responsive UI, modular React components, and optimized UX.  
+
+---
+
+## 🏆 Achievements  
+
+✅ **Flipkart Grid 6.0 Level 2 Finalist** *(Top Teams: 8165+)*  
+✅ **Smart India Hackathon College-Level Selection (2023 & 2024)**  
+✅ **300+ DSA Problems Solved** *(LeetCode, GFG)*  
+
+---
+
+## 📜 Certifications  
+
+🎨 **Google UX Design Certificate** *(May 2024)*  
+
+---
+
+## 🔗 Let's Connect  
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
