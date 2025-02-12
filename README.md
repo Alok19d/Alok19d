@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Developer | Full-Stack Engineer | Problem Solver**  
 
 🎓 **B.Tech in Computer Science & Engineering** | **IIIT Bhagalpur (2021-2025)**  
-💡 Passionate about **Web Development, Competitive Programming, and System Design**  
+💡 Passionate about **Web Development and Competitive Programming**  
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🔗 Let's Connect  
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Alok19d">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/alok-anand-0030b51a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
