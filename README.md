@@ -26,7 +26,7 @@
 
 ## 🛠️ Projects  
 
-- **📝 Blog Spot **  *(React, Redux Toolkit, Node.js, Express.js, MongoDB, WebSocket, Yjs, Tiptap, TailwindCSS, Cloudinary, Multer, JWT, OAuth2)*
+- **📝 Blog Spot ** *(React, Redux Toolkit, Node.js, Express.js, MongoDB, WebSocket, Yjs, Tiptap, TailwindCSS, Cloudinary, Multer, JWT, OAuth2)*
   - A real-time collaborative editing platform using Yjs and WebSocket, enabling multiple users to co-edit documents with live cursors, conflict resolution, and synchronized updates.
 - **🚖 Ride Book** *(React, Redux Toolkit, Node.js, Express.js, MongoDB, Socket.IO, Google Maps API, TailwindCSS, NodeMailer)*  
   - A real-time ride booking platform using React, Node.js, and MongoDB, enabling live tracking between drivers and passengers using Socket.IO
