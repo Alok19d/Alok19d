@@ -26,10 +26,12 @@
 
 ## 🛠️ Projects  
 
-- **🚖 Uber Full-Stack Clone** *(MERN, Socket.IO, Google Maps API, JWT)*  
-  - Real-time ride-sharing platform with authentication and live tracking.  
+- **📝 Blog Spot **  *(React, Redux Toolkit, Node.js, Express.js, MongoDB, WebSocket, Yjs, Tiptap, TailwindCSS, Cloudinary, Multer, JWT, OAuth2)*
+  - A real-time collaborative editing platform using Yjs and WebSocket, enabling multiple users to co-edit documents with live cursors, conflict resolution, and synchronized updates.
+- **🚖 Ride Book** *(React, Redux Toolkit, Node.js, Express.js, MongoDB, Socket.IO, Google Maps API, TailwindCSS, NodeMailer)*  
+  - A real-time ride booking platform using React, Node.js, and MongoDB, enabling live tracking between drivers and passengers using Socket.IO
 - **📈 Zerodha Frontend Clone** *(React, CSS, JavaScript)*  
-  - Fully responsive UI, modular React components, and optimized UX.  
+  - A fully responsive Zerodha-inspired frontend using ReactJS, optimizing the UI/UX for seamless usability across devices.
 
 ---
 
